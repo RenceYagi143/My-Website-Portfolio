@@ -1,0 +1,4 @@
+#awards .grid { grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); }
+.filters { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 28px; }
+.filters button { font: inherit; font-size: 14px; color: var(--text); background: #fff; border: 1px solid var(--line); padding: 10px 18px; border-radius: 999px; cursor: pointer; min-height: 44px; }
+.filters button.on { background: var(--blue); color: #fff; border-color: transparent; font-weight: 600; }

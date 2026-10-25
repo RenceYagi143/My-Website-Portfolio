@@ -1,0 +1,17 @@
+// Pictures: public/images/awards/<image>
+// level must be one of: International, National, Regional, Local
+export const awards = [
+  { title: 'Champion', event: 'ICpEP.SE Region X Robothon', when: 'Oct 2026', level: 'Regional', image: '01-champion-robothon-region-x.jpg', text: 'Developed E-TANAW, an automated crop scanner that glides above plants on an overhead pipe.' },
+  { title: 'National Finalist', event: 'ICpEP.SE Philippines Robothon', when: 'Oct 2026', level: 'National', image: '02-national-finalist-robothon.jpg', text: 'Developed an innovative solution against pressing issues in the Philippines.' },
+  { title: 'National Finalist', event: 'IEEE SUMPAI Hackathon', when: 'Sept 2026', level: 'National', image: '03-national-finalist-ieee-sumpai.jpg', text: 'Developed SAGIP, a Streetlight Acoustic Grid for vehicular crash accident detection.' },
+  { title: 'Region X Finalist', event: 'DOST-TAPI Sibol Category', when: 'Dec 2025', level: 'Regional', image: '04-region-x-finalist-dost-tapi-sibol.jpg', text: 'Recognized by the Department of Science and Technology – Technology Application and Promotion Institute for student research and invention (Dr.ONE).' },
+  { title: 'Regional Finalist', event: 'Philippine Startup Challenge X · Region 10', when: 'Nov 2025', level: 'Regional', image: '05-regional-finalist-startup-challenge-x.jpg', text: 'Advanced to the regional pitching finals with the Food Delivery App startup concept.' },
+  { title: '1st Runner Up', event: 'ICpEP Region 10 Annual Regional Project Pitching', when: 'Mar 2025', level: 'Regional', image: '06-first-runner-up-icpep-region-10-pitching.jpg', text: 'Awarded by the Institute of Computer Engineers of the Philippines (ICpEP Region 10).' },
+  { title: '2nd Runner Up', event: 'MSU-IIT College of Engineering Project Pitching', when: 'Nov 2024', level: 'Local', image: '07-second-runner-up-msu-iit-coe-pitching.jpg', text: 'Recognized for engineering project design and commercial potential of a Smart Barangay App.' },
+  { title: '1st Runner Up', event: 'MSU-IIT Young Inventors Apprenticeship Program', when: 'Aug 2024', level: 'Local', image: '08-first-runner-up-msu-iit-young-inventors.jpg', text: 'Top honours for rapid prototype innovation prior to university entry, for EmployABLE.' },
+  { title: 'Shortlisted International Finalist', event: 'SEAMEO SSYS · Penang, Malaysia', when: 'Jul 2024', level: 'International', image: '09-seameo-ssys-international-finalist.jpg', text: 'Selected as a regional international finalist at the Southeast Asian Ministers of Education Organization Science Youth Summit (Dr.ONE).' },
+  { title: '1st Runner Up', event: 'Division Science and Technology Fair · Iligan City', when: 'Jul 2024', level: 'Local', image: '10-first-runner-up-division-science-fair.jpg', text: 'Recognized in the Robotics and Intelligent Machines Category during Grade 12.' },
+  { title: 'Finalist', event: 'FutureIlliganX Smart City Hackathon by iDEYA', when: 'Aug 2023', level: 'Local', image: '11-finalist-futureiligan-x-hackathon.jpg', text: 'Developed the smart city solution Sensobot under the mentorship of MSU-IIT’s iDEYA Center for Innovation and Technopreneurship.' },
+  { title: 'Shortlisted Qualifier', event: 'Young Inventors Challenge (YIC Malaysia)', when: 'Jan 2023', level: 'International', image: '12-yic-malaysia-qualifier.jpg', text: 'Qualified internationally as part of a youth innovation challenge during Grade 11.' }
+];
+export const levels = ['All', 'International', 'National', 'Regional', 'Local'];

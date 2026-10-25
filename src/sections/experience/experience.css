@@ -1,0 +1,4 @@
+.tl { position: relative; display: flex; flex-direction: column; gap: 26px; padding-left: 30px; border-left: 2px solid var(--line); }
+.tl .card { position: relative; overflow: visible; display: grid; grid-template-columns: minmax(200px, 260px) 1fr; }
+.tl .card .ph { height: 100%; min-height: 150px; border-bottom: 0; border-right: 1px solid var(--line); border-radius: 18px 0 0 18px; overflow: hidden; }
+.tl .card::before { content: ""; position: absolute; left: -39px; top: 30px; width: 14px; height: 14px; border-radius: 50%; background: var(--cyan); box-shadow: 0 0 14px var(--cyan); }

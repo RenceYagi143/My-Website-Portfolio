@@ -1,0 +1,13 @@
+/* Change the whole palette here. */
+:root {
+  --bg: #F7FAFF;
+  --line: #D3E1F7;
+  --blue: #2563EB;
+  --sky: #0369A1;
+  --cyan: #0E7490;
+  --text: #0B1B3F;
+  --mut: #4A5F8A;
+  --font: 'Space Grotesk', system-ui, sans-serif;
+  --mono: 'JetBrains Mono', monospace;
+  color-scheme: light;
+}

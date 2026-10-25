@@ -1,0 +1,1 @@
+#skills .grid { grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); margin-top: 24px; }

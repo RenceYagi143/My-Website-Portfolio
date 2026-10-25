@@ -1,0 +1,10 @@
+@media (max-width: 700px) {
+  section { padding: 72px 0; }
+  .logo span { display: none; }
+  .links a { padding: 10px; }
+  .tl .card { grid-template-columns: 1fr; }
+  .tl .card .ph { min-height: 130px; border-right: 0; border-bottom: 1px solid var(--line); }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}

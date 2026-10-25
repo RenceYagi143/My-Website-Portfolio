@@ -1,0 +1,5 @@
+#contact .wrap { max-width: 720px; }
+.channels { margin-top: 24px; }
+.cta { display: block; border: 1px solid var(--line); border-radius: 14px; padding: 16px 20px; color: var(--text); background: #fff; margin-bottom: 12px; min-height: 44px; }
+.cta:hover { border-color: var(--blue); }
+.cta small { display: block; color: var(--mut); font-size: 12px; margin-bottom: 2px; }
