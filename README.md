@@ -1,4 +1,4 @@
-Hi! M
+Hi! I am Terence Jay Eborda, a Computer Engineering student at MSU-IIT, Data Analyst, and Hardware & IoT Innovator. Blending market-tested resilience with technical expertise, I design AI-driven environmental drones, autonomous hardware systems, and inclusive digital platforms. From startups to global competitions, I build practical solutions rooted in real-world impact.
 
 # Terence Jay Eborda – Portfolio
 
