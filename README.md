@@ -1,3 +1,5 @@
+Hi! M
+
 # Terence Jay Eborda – Portfolio
 
 Vite + plain JavaScript, Three.js (3D background) and GSAP (animations).
